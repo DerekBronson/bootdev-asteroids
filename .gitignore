@@ -1,3 +1,5 @@
 __pycache__
 venv
 .vscode/settings.json
+.vscode/asteroids.code-workspace
+.vscode/launch.json
